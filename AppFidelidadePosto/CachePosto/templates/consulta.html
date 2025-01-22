@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="ptbr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fidelidade</title>
+</head>
+<body>
+
+    <form action="/">
+        <button type="submit">Inicio</button>
+    </form>
+
+    {%for i in valor%}
+        Cpf: {{ i[1] }}<br>
+        Ponto: {{ i[4]}}
+    {%endfor%}
+        
+</body>
+</html>

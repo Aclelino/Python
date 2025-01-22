@@ -1,0 +1,8 @@
+README.md
+setup.py
+Tabuleiro.egg-info/PKG-INFO
+Tabuleiro.egg-info/SOURCES.txt
+Tabuleiro.egg-info/dependency_links.txt
+Tabuleiro.egg-info/top_level.txt
+package_tabuleiro/__init__.py
+package_tabuleiro/tabuada.py
